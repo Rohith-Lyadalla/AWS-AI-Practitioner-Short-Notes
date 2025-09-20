@@ -1,2 +1,2 @@
 # AWS-AI-Practitioner-Zero-to-Hero
-Beginner-friendly repo for AWS AI Cloud Practitioner certification. Learn AI on AWS from scratch to advanced, Perfect for anyone aiming to master AI on the AWS platform. with tutorials, AI/ML services, practical examples, and real-world applications. .
+This a beginner friendly repo for anyone who are starting AWS AI CLOUD PRACTITIONER CERTIFICATION. It is also a comprehensive repository for learning AI on AWS, taking you from beginner to advanced practitioner. Includes AI for beginner tutorials, AI / ML Services and practical examples covering AWS AI services, machine learning workflows, and real-world applications. Perfect for anyone aiming to master AI on the AWS platform.
