@@ -5,8 +5,6 @@
 - **Scalable Infrastructure:** Enables efficient training, deployment, and scaling of AI workloads.
 - **Comprehensive Ecosystem:** Wide range of managed services and tools simplifies AI development.
 - **Cost-Effective:** No need to build complex systems from scratch or invest in expensive hardware.
-<img width="1866" height="2246" alt="26-09-2025 17_58_50" src="https://github.com/user-attachments/assets/d567650f-e7e1-4250-98af-84c0014b6aaa" />
-
 # Main Categories of AWS AI Services
 **1. Pre-trained AI Services**
 - Ready-to-use solutions, e.g., Amazon Rekognition (image analysis), Comprehend (NLP), Polly (text-to-speech), Textract (document analysis).
