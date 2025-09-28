@@ -69,7 +69,7 @@
 - **Education:** personalized tutoring.
 - **Cybersecurity:** incident response, malware detection.
 - **Manufacturing:** predictive maintenance.
-# Quick Recap
+# Points to be remembered: 
 - AI mimics human intelligence to automate tasks, learn, and improve decisions.
 - Traditional AI is rule-based and task-specific; modern AI learns and adapts.
 - AI has multiple layers from data collection to user applications.
