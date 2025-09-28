@@ -1,4 +1,4 @@
-# AWS Artificial Intelligence and Machine Learning Services Dictionary
+# 1. AWS Artificial Intelligence and Machine Learning Services Dictionary
 **1. Amazon Augmented AI :**  Amazon Augmented AI (A2I) simplifies building human review workflows for ML predictions. It removes the heavy lifting of orchestrating and managing human reviewers across any data source. Developers can integrate A2I into existing ML pipelines to route uncertain predictions for human verification. The service supports on-AWS or external human reviewers and includes built-in task templates. A2I provides audit trails and confidence scores to optimize review efficiency.
 ___
 **2. Amazon Bedrock :** Amazon Bedrock is a managed API for accessing and customizing foundation models (FMs) from Amazon and leading AI providers. It offers a serverless experience to experiment, fine-tune on private data, and deploy FMs without infrastructure management. Supported partners include AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and AWS’s Nova models. Bedrock handles scaling, versioning, and model hosting transparently. Users pay per API call with no upfront commitment.
