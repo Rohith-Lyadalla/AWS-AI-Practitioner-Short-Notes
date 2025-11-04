@@ -40,42 +40,42 @@
 * Batch Transform: Offline processing of large datasets.
 * Asynchronous Inference: Queues large/long requests for near real-time results.
 * Serverless Inference: Scales on demand without managing infrastructure.
-Edge Deployment: Manage and deploy models on IoT and edge devices.
-SageMaker Data Wrangler
-Simplifies data preparation with a visual interface and over 300 transformations.
-Connects to diverse data sources; exports clean data to SageMaker pipelines or Feature Store.
-Enables scalable and automated data preprocessing workflows.
-SageMaker Studio
-Integrated web-based environment combining notebooks, code editor, and RStudio.
-Provides unified access to AWS services and SageMaker features.
-Supports version control, elastic compute provisioning, and collaboration.
-Includes tools for debugging, model monitoring, and lifecycle management.
-SageMaker Feature Store
-Centralized repository for storing and managing features used in both training and real-time inference.
-Eliminates training-serving skew by synchronizing feature data across use cases.
-Supports scalable batch and online feature access.
-SageMaker Clarify
-Built-in tool for detecting data and model bias.
-Provides explainability through feature importance and SHAP values.
-Supports compliance with fairness and transparency standards.
-SageMaker Ground Truth
-Managed data labeling service combining human annotation with ML pre-labeling.
-Supports multiple data types and quality assurance through monitoring and task routing.
-Includes advanced workflows like Reinforcement Learning from Human Feedback for model alignment.
-SageMaker ML Governance
-Provides tools for secure, compliant, and transparent ML operations.
-Includes Role Manager for least-privilege access, Model Cards for documentation, and Model Dashboard for monitoring.
-Facilitates audit, version control, and risk management.
-SageMaker Model Registry
-Centralized model catalog supporting versioning, metadata management, and lifecycle tracking.
-Integrates with Model Cards and supports deployment automation.
-SageMaker Pipelines
-Managed service for automating end-to-end ML workflows including data processing, training, tuning, evaluation, and deployment.
-Supports repeatable and scalable workflows with monitoring and CICD integration.
-SageMaker JumpStart and Canvas
-JumpStart: Provides prebuilt models, foundation models, and solutions for rapid ML deployment.
-Canvas: No-code tool enabling business users to build ML models visually without coding, supporting broad use cases.
-Points to be remembered: 
+* Edge Deployment: Manage and deploy models on IoT and edge devices.
+# 9. SageMaker Data Wrangler
+* Simplifies data preparation with a visual interface and over 300 transformations.
+* Connects to diverse data sources; exports clean data to SageMaker pipelines or Feature Store.
+* Enables scalable and automated data preprocessing workflows.
+# 10. SageMaker Studio
+* Integrated web-based environment combining notebooks, code editor, and RStudio.
+* Provides unified access to AWS services and SageMaker features.
+* Supports version control, elastic compute provisioning, and collaboration.
+* Includes tools for debugging, model monitoring, and lifecycle management.
+# 11. SageMaker Feature Store
+* Centralized repository for storing and managing features used in both training and real-time inference.
+* Eliminates training-serving skew by synchronizing feature data across use cases.
+* Supports scalable batch and online feature access.
+# 12. SageMaker Clarify
+* Built-in tool for detecting data and model bias.
+* Provides explainability through feature importance and SHAP values.
+* Supports compliance with fairness and transparency standards.
+# 13. SageMaker Ground Truth
+* Managed data labeling service combining human annotation with ML pre-labeling.
+* Supports multiple data types and quality assurance through monitoring and task routing.
+* Includes advanced workflows like Reinforcement Learning from Human Feedback for model alignment.
+# 14. SageMaker ML Governance
+* Provides tools for secure, compliant, and transparent ML operations.
+* Includes Role Manager for least-privilege access, Model Cards for documentation, and Model Dashboard for monitoring.
+* Facilitates audit, version control, and risk management.
+# 15. SageMaker Model Registry
+* Centralized model catalog supporting versioning, metadata management, and lifecycle tracking.
+* Integrates with Model Cards and supports deployment automation.
+# 16. SageMaker Pipelines
+* Managed service for automating end-to-end ML workflows including data processing, training, tuning, evaluation, and deployment.
+* Supports repeatable and scalable workflows with monitoring and CICD integration.
+# 17. SageMaker JumpStart and Canvas
+* JumpStart: Provides prebuilt models, foundation models, and solutions for rapid ML deployment.
+* Canvas: No-code tool enabling business users to build ML models visually without coding, supporting broad use cases.
+# Points to be remembered: 
 Amazon SageMaker is a comprehensive, fully managed platform that streamlines ML development, training, deployment, and monitoring.
 It solves infrastructure complexity, scales automatically, and supports multiple deployment modes.
 Key features include integrated tools (Studio, Data Wrangler), built-in algorithms, automatic tuning, feature store, and governance tools.
